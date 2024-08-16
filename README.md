@@ -14,7 +14,7 @@
 #### Getting Started:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ARUN3SH-27/TypeMaster.git
+   git clone https://github.com/ARUN3SH-27/BoostHacks2.git
    ```
 2. **Install Dependencies:** Ensure you have Python installed. This project uses built-in libraries, so no additional packages are required.
 3. **Run the Application:**
