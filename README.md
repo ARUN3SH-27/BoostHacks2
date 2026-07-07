@@ -3,7 +3,7 @@
 
 ### TypeMaster
 
-**TypeMaster** is a Python-based typing speed test application designed to help users improve their typing skills. Featuring a user-friendly GUI built with `tkinter`, this tool provides an engaging way to measure typing speed and accuracy.
+**TypeMaster** is a Python-based typing speed test application designed to help users improve their typing skills. Featuring a user-friendly GUI built with `tkinter`, this tool provides an engaging way to measure typing speed and accuracy. thanks to all as this project has won for the best gaming hack in boosthacks II.
 
 #### Key Features:
 - **Random Sentences:** Includes a variety of sentences, including those with all letters of the alphabet, for comprehensive typing practice.
